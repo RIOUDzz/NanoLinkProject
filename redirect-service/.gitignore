@@ -1,0 +1,4 @@
+.env
+redirect.sqlite
+redirect-service.exe
+redirect-service
